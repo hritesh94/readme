@@ -19,3 +19,4 @@
 <a href="https://nodejs.org/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="node.js"  width="100"/></a>
 <a href="https://expressjs.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC3K-0hD8O4jYTq08n2QRjl5JCQaiVMXB5vHlxmDIfRE5e-vbD1bGg5GB5trDgEar29OU&usqp=CAU" alt="express.js"  width="100"/></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hritesh94)](https://github.com/anuraghazra/github-readme-stats)
