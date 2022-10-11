@@ -20,3 +20,5 @@
 <a href="https://expressjs.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC3K-0hD8O4jYTq08n2QRjl5JCQaiVMXB5vHlxmDIfRE5e-vbD1bGg5GB5trDgEar29OU&usqp=CAU" alt="express.js"  width="100"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hritesh94)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hritesh94&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
